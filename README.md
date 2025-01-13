@@ -27,7 +27,8 @@ An AI-based chat learning assistant that helps students engage in dynamic conver
 - My journey in Edtech and AI development  
 
 ### 📫 **How to reach me:**  
-- **Email**: renjx@upenn.edu  
+- **Email**: renjx@upenn.edu
+- **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/jingxuan-ruby-ren/) 
 - **Website**: [Ruby's Website](https://ruby-ren.upenn.domains)  
 - **Python Portfolio**: [Python Work](https://renjx0425.github.io/EDUC5913-portfolio/)  
 - **Chat with me**: [Let’s Chat](https://calendly.com/renjx-upenn/30min?month=2025-01)  
