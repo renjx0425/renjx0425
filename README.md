@@ -7,14 +7,14 @@ Welcome to my GitHub profile! I'm driven by creating cutting-edge edtech and div
 ### 🔭 **I’m currently working on:**
 
 **[Edmuse AI](https://drive.google.com/file/d/1YXHZisCBtXSicrBWLMO1f958eNmsk1Kw/view?usp=sharing)**  
-A groundbreaking AI-driven tool designed to revolutionize the way we learn and interact with museum. If you're passionate about creating tools that inspire informal learning through innovation, let's connect!
+An AI-driven tool designed to revolutionize the way we learn and interact with museum. If you're passionate about creating tools that inspire informal learning through innovation, let's connect!
 
 ### 🎥 **Finished Projects (You can check out the demo!):**  
 
-**[WonderLens](https://docs.google.com/presentation/d/1kyOQ5iugxdEiIgN9TB73dkVqReGhTQHqvHPNb94MMFw/edit#slide=id.g2d691d113be_0_86)**  
-A reading enhancement tool to promote SEL by exploring and comparing character perspectives through parallel first-person narratives. Here’s a [demo video](https://www.youtube.com/watch?v=ShKRdSGEL58) for you to explore!
+**[WonderLens](https://github.com/renjx0425/wonderlens)**  
+An interactive reading tool enabling parallel first-person narrative exploration. Here’s a [demo video](https://www.youtube.com/watch?v=ShKRdSGEL58) for you to explore!
 
-### 💼 **The latest project I've done:**  
+### 💼 **The latest project I've done:** 
 **[GeniusTalk](https://github.com/renjx0425/GeniusTalk)**  
 An AI-based chat learning assistant that helps students engage in dynamic conversations and enrich their educational journey. Check out this [demo video](https://drive.google.com/file/d/19aNjthw7kfhxsqy2CfLNakI2lrSS7SMI/view?usp=sharing) to discover the text-to-speech feature and more!
 
