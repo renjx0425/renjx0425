@@ -16,7 +16,7 @@ An interactive reading tool enabling parallel first-person narrative exploration
 An AI-powered conversational platform that lets users interact with "Great Minds," using OpenAI's API for text generation and delivering TTS via Murf API. Check out this [demo video](https://youtu.be/EFahpgsId9Q) to discover the text-to-speech feature and more!  
 
 ### **[Python Portfolio](https://renjx0425.github.io/python-portfolio/)**  
-Explore my little garden of 🐍 Python magic for Course EDUC5913 **[here](https://renjx0425.github.io/python-portfolio/)**! ✨  
+Explore my little garden of 🐍 Python magic for Course EDUC5913 **[HERE](https://renjx0425.github.io/python-portfolio/)** ! ✨  
 
 ## 🌱 **I’m currently learning:**  
 **AI and Machine Learning** – Continuously enhancing my skills to develop smarter, more powerful tools for education.
