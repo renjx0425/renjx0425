@@ -10,7 +10,7 @@ An AI-driven tool designed to revolutionize the way we learn and interact with m
 
 ## 🎥 Finished Projects (You can check out the demo!):  
 ### **[WonderLens](https://github.com/renjx0425/wonderlens)**    
-An interactive reading tool enabling parallel first-person narrative exploration. Here’s a [demo video](https://www.youtube.com/watch?v=ShKRdSGEL58) for you to explore!  
+An interactive reading tool enabling parallel first-person narrative exploration. Try it out yourself [here](https://renjx0425.github.io/wonderlens/) and here’s a [demo video](https://www.youtube.com/watch?v=ShKRdSGEL58) for you to explore!  
 
 ### **[GeniusTalk](https://github.com/renjx0425/genius-talk)**  
 An AI-powered conversational platform that lets users interact with "Great Minds," using OpenAI's API for text generation and delivering TTS via Murf API. Check out this [demo video](https://youtu.be/EFahpgsId9Q) to discover the text-to-speech feature and more!  
