@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I'm driven by creating cutting-edge edtech and diving into the world of AI. I'm always looking to push boundaries and collaborate with like-minded individuals to bring innovative ideas to life. 
 
 ## 🔭 I’m currently working on:  
-### **[Edmuse AI](https://drive.google.com/file/d/1YXHZisCBtXSicrBWLMO1f958eNmsk1Kw/view?usp=sharing)**  
+### **[MuseoGo](https://museogo.com/)**  
 An AI-driven tool designed to revolutionize the way we learn and interact with museums. If you're passionate about creating tools that inspire informal learning through innovation, let's connect!  
 
 ## 🎥 Finished Projects (You can check out the demo!):  
