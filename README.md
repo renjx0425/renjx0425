@@ -30,7 +30,7 @@ Explore my little garden of 🐍 Python magic for Course EDUC5913 **[HERE](https
 - My journey in Edtech and AI development  
 
 ## 📫 **How to reach me:**  
-- **Email**: rubyren@alumni.upenn.edu
+- **Email**: renjx425@gmail.com
 - **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/jingxuan-ruby-ren/) 
 - **Website**: [Ruby's Website](https://ruby-ren.upenn.domains)  
 - **Chat with me**: [Let’s Chat](https://calendly.com/renjx-upenn/30min?month=2025-01)  
