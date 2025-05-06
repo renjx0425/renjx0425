@@ -15,7 +15,7 @@ An interactive reading tool enabling parallel first-person narrative exploration
 ### **[GeniusTalk](https://github.com/renjx0425/genius-talk)**  
 An AI-powered conversational platform that lets users interact with "Great Minds," using OpenAI's API for text generation and delivering TTS via Murf API. Check out this [demo video](https://youtu.be/EFahpgsId9Q) to discover the text-to-speech feature and more!  
 
-### **[Fashiontopia](https://closetopia.vercel.app/)**  
+### **[Fashiontopia](https://github.com/renjx0425/fashiontopia)**  
 A semi-finished AI-powered digital wardrobe assistant, built in just two days at the Microsoft Cambridge Hackathon. Using AI tools like Cursor and Next.js, it suggests personalized outfits based on weather and events—a [glimpse](https://closetopia.vercel.app/) into the future of AI-driven fashion!
 
 ### **[Python Portfolio](https://renjx0425.github.io/python-portfolio/)**  
